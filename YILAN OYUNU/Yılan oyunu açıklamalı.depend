@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1734987592 source:c:\esra code blocks\yýlan oyunu açýklamalý\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<string.h>
+
+1734987592 source:c:\esra code blocks\yilan oyunu\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<string.h>
+
